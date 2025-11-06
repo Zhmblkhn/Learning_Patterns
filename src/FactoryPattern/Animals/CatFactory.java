@@ -1,4 +1,4 @@
-package FactoryPattern;
+package FactoryPattern.Animals;
 
 public class CatFactory extends AnimalFactory {
     @Override
